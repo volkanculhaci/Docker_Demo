@@ -1,6 +1,6 @@
 # **Docker Demo**
 
-This is a demo project to showcase how to use Docker to containerize a simple web application. The application displays a "Hello, World!" message on a web page and is built with Node.js and Express.
+This is a demo project to showcase how to use Docker to containerize a simple web application. The application displays a 'Docker is easy 🐳’ message on a web page and is built with Node.js and Express.
 
 ## **Prerequisites**
 
